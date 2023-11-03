@@ -1,0 +1,3 @@
+../Core/Src/SX1262_board.c:8:6:Gpio_init	1
+../Core/Src/SX1262_board.c:15:6:SPI_init	1
+../Core/Src/SX1262_board.c:24:6:MCU_init	1

@@ -1,0 +1,1 @@
+Telemetry_code includes SX1262_Radio_Transceiver Drivers (Based on the Semtech drivers) for the telemetry system of an FSAE race car.

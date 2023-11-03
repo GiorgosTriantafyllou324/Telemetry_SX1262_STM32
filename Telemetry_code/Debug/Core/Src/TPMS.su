@@ -1,0 +1,6 @@
+../Core/Src/TPMS.c:14:6:TpmsStructsInit	4	static
+../Core/Src/TPMS.c:58:6:init_packet_types	4	static
+../Core/Src/TPMS.c:82:6:SX1262CreateTpmsRequestMsg	16	static
+../Core/Src/TPMS.c:91:6:SX1262CreateTpmsCfgrMsg	16	static
+../Core/Src/TPMS.c:100:14:SX1262SetFunction	24	static
+../Core/Src/TPMS.c:120:6:TpmsGetMessage	376	static
