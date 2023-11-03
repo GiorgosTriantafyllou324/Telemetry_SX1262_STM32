@@ -1,0 +1,12 @@
+../Core/Src/main.c:141:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:159:5:main	88	static,ignoring_inline_asm
+../Core/Src/main.c:495:6:SystemClock_Config	96	static
+../Core/Src/main.c:541:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:589:13:MX_LPTIM1_Init	8	static
+../Core/Src/main.c:624:13:MX_RTC_Init	8	static
+../Core/Src/main.c:668:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:708:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:784:6:DeInitializeTPMS	48	static
+../Core/Src/main.c:818:6:InitializeTPMS	32	static
+../Core/Src/main.c:837:6:TPMS_sleep	16	static
+../Core/Src/main.c:873:6:Error_Handler	4	static,ignoring_inline_asm

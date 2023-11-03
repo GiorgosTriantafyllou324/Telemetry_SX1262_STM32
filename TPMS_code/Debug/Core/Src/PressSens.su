@@ -1,0 +1,12 @@
+../Core/Src/PressSens.c:9:6:pressure_sensor_struct_init	32	static
+../Core/Src/PressSens.c:31:13:reset	32	static
+../Core/Src/PressSens.c:40:13:read_prom	32	static
+../Core/Src/PressSens.c:57:13:get_temperatures	16	static
+../Core/Src/PressSens.c:66:13:read_pressure_register	16	static
+../Core/Src/PressSens.c:75:6:calibrate	392	static
+../Core/Src/PressSens.c:113:13:check_crc	16	static
+../Core/Src/PressSens.c:125:13:sensor_init	32	static
+../Core/Src/PressSens.c:146:13:sensor_measure	16	static
+../Core/Src/PressSens.c:166:13:get_adc_conversion	32	static
+../Core/Src/PressSens.c:195:15:crc4	32	static
+../Core/Src/PressSens.c:222:6:delay	56	static

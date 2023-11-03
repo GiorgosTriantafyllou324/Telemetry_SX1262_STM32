@@ -1,0 +1,12 @@
+main.c:141:6:HAL_GPIO_EXTI_Callback	3
+main.c:159:5:main	27
+main.c:495:6:SystemClock_Config	4
+main.c:541:13:MX_I2C1_Init	4
+main.c:589:13:MX_LPTIM1_Init	2
+main.c:624:13:MX_RTC_Init	3
+main.c:668:13:MX_SPI1_Init	2
+main.c:708:13:MX_GPIO_Init	1
+main.c:784:6:DeInitializeTPMS	1
+main.c:818:6:InitializeTPMS	1
+main.c:837:6:TPMS_sleep	1
+main.c:873:6:Error_Handler	1

@@ -1,0 +1,12 @@
+PressSens.c:9:6:pressure_sensor_struct_init	2
+PressSens.c:31:13:reset	2
+PressSens.c:40:13:read_prom	3
+PressSens.c:57:13:get_temperatures	2
+PressSens.c:66:13:read_pressure_register	2
+PressSens.c:75:6:calibrate	5
+PressSens.c:113:13:check_crc	2
+PressSens.c:125:13:sensor_init	5
+PressSens.c:146:13:sensor_measure	3
+PressSens.c:166:13:get_adc_conversion	8
+PressSens.c:195:15:crc4	5
+PressSens.c:222:6:delay	2
