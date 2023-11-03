@@ -1,8 +1,0 @@
-../Core/Src/SX1262_hal.c:16:6:SX1262WriteCommand	104	dynamic
-../Core/Src/SX1262_hal.c:61:6:SX1262ReadCommand	96	dynamic
-../Core/Src/SX1262_hal.c:101:6:SX1262WriteRegister	72	dynamic
-../Core/Src/SX1262_hal.c:123:6:SX1262ReadRegister	104	dynamic
-../Core/Src/SX1262_hal.c:163:14:SX1262SafeWriteRegister	72	dynamic
-../Core/Src/SX1262_hal.c:184:6:SX1262WriteBuffer	72	dynamic
-../Core/Src/SX1262_hal.c:206:6:SX1262ReadBuffer	104	dynamic
-../Core/Src/SX1262_hal.c:254:14:SX1262SafeWriteBuffer	72	dynamic

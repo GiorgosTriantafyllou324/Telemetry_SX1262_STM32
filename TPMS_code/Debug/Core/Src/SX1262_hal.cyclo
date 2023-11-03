@@ -1,8 +1,0 @@
-SX1262_hal.c:16:6:SX1262WriteCommand	12
-SX1262_hal.c:61:6:SX1262ReadCommand	8
-SX1262_hal.c:101:6:SX1262WriteRegister	3
-SX1262_hal.c:123:6:SX1262ReadRegister	7
-SX1262_hal.c:163:14:SX1262SafeWriteRegister	4
-SX1262_hal.c:184:6:SX1262WriteBuffer	4
-SX1262_hal.c:206:6:SX1262ReadBuffer	7
-SX1262_hal.c:254:14:SX1262SafeWriteBuffer	4
