@@ -270,7 +270,7 @@ int main(void)
 		if (tx_msg_id > PACKETS_NUM)
 			tx_msg_id = 1;
 
-		SX1262SendPayload(&mcu, &radio, radio.tx_msg, radio.packetParams.Params.Gfsk.PayloadLength - 2, 20, false);
+		SX1262SendPayload(&mcu, &radio, radio.tx_msg, radio.packetParams.Params.Gfsk.PayloadLength - 2, 20, true);
 
 		radio.tele_tx_time = HAL_GetTick() - tx_tick;
 	}
