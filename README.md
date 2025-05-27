@@ -25,7 +25,7 @@ Also, there are other libraries concerning the operation of the telemetry system
 
 
 
---------------------- **EXTRA FUNTIONS OF THE TELEMETRY SYSTEM** ---------------------
+## EXTRA FUNTIONS OF THE TELEMETRY SYSTEM
 
 The telemetry has the ability to communicate with custom made **Tire Pressure Monitoring System (TPMS)** PCBs and get useful data like tire pressure and temperature. The TPMS are mounted inside the car's wheels so they transmit their measurements wirelessly to the telemetry antenna on the car, which receives their messages. When the telemetry board on the car is supplied, it transmits 2 different types of messages with different sync words every 20ms. The first 50-Bytes packet is intended for the receiving node (normal telemetry receiver) while the second 5-Bytes packet is intended for the TPMS. This message informs all four TPMS on when the next Rx window of the telemetry will be. When the Rx window time arrives, the telemetry dedicates 120ms for Rx and receives the messages from the TPMS.
 Since the radio transceiver is always the SX1262, the same libraries are used for the telemetry receiver, the telemetry transmitter (which communicates with the TPMS) and the TPMS boards. 
