@@ -4,8 +4,8 @@ Telemetry_code includes SX1262_Radio_Transceiver Drivers (Based on the Semtech d
 
 
 The custom libraries are included in the following paths:
-- Telemetry_code\Core\Inc
-- Telemetry_code\Core\Src
+- Telemetry_code/Core/Inc
+- Telemetry_code/Core/Src
 
 
 The SX1262 Drivers are:
